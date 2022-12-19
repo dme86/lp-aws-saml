@@ -7,11 +7,10 @@ require (
 	github.com/antchfx/xmlquery v0.0.0-20180925013719-07935b1c0f2e
 	github.com/antchfx/xpath v0.0.0-20180922041825-3de91f3991a1 // indirect
 	github.com/aws/aws-sdk-go v1.44.162
-	github.com/go-ini/ini v1.39.0
+	github.com/go-ini/ini v1.67.0
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/juju/go4 v0.0.0-20160222163258-40d72ab9641a // indirect
 	github.com/mitchellh/mapstructure v1.1.2 // indirect
-	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a // indirect
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/spf13/viper v1.2.1
@@ -20,6 +19,5 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/net v0.1.0
 	gopkg.in/errgo.v1 v1.0.1 // indirect
-	gopkg.in/ini.v1 v1.42.0 // indirect
 	gopkg.in/retry.v1 v1.0.2 // indirect
 )
