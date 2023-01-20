@@ -9,7 +9,7 @@ require (
 	github.com/go-ini/ini v1.67.0
 	github.com/juju/go4 v0.0.0-20160222163258-40d72ab9641a // indirect
 	github.com/spf13/cobra v1.6.1
-	github.com/spf13/viper v1.14.0
+	github.com/spf13/viper v1.15.0
 	github.com/vinhjaxt/persistent-cookiejar v0.0.0-20180709060329-9ac0896f6195
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
 	golang.org/x/net v0.5.0
