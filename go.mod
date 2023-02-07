@@ -5,7 +5,7 @@ go 1.14
 require (
 	github.com/antchfx/xmlquery v0.0.0-20180925013719-07935b1c0f2e
 	github.com/antchfx/xpath v0.0.0-20180922041825-3de91f3991a1 // indirect
-	github.com/aws/aws-sdk-go v1.44.190
+	github.com/aws/aws-sdk-go v1.44.195
 	github.com/go-ini/ini v1.67.0
 	github.com/juju/go4 v0.0.0-20160222163258-40d72ab9641a // indirect
 	github.com/spf13/cobra v1.6.1
